@@ -1,0 +1,30 @@
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\bin\Debug\Dkosoftware.Fandangueiros.Business.dll
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\bin\Debug\Dkosoftware.Fandangueiros.Business.pdb
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\obj\Debug\Dkosoftware.Fandangueiros.Business.dll
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\obj\Debug\Dkosoftware.Fandangueiros.Business.pdb
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\bin\Debug\DbFandangueiros.accdb
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\bin\Debug\Dkosoftware.Fandangueiros.DAO.dll
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\bin\Debug\Dkosoftware.Fandangueiros.Entity.dll
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\bin\Debug\Dkosoftware.Fandangueiros.DAO.pdb
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\bin\Debug\Dkosoftware.Fandangueiros.Entity.pdb
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\obj\Debug\Dkosoftware.Fandangueiros.Business.csprojResolveAssemblyReference.cache
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\bin\Debug\DbFandangueiros.accdb
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\bin\Debug\Dkosoftware.Fandangueiros.Business.dll
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\bin\Debug\Dkosoftware.Fandangueiros.Business.pdb
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\bin\Debug\Dkosoftware.Fandangueiros.DAO.dll
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\bin\Debug\Dkosoftware.Fandangueiros.Entity.dll
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\bin\Debug\Dkosoftware.Fandangueiros.DAO.pdb
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\bin\Debug\Dkosoftware.Fandangueiros.Entity.pdb
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\obj\Debug\Dkosoftware.Fandangueiros.Business.csprojResolveAssemblyReference.cache
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\obj\Debug\Dkosoftware.Fandangueiros.Business.dll
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\obj\Debug\Dkosoftware.Fandangueiros.Business.pdb
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\bin\Debug\DbFandangueiros.accdb
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\bin\Debug\Dkosoftware.Fandangueiros.Business.dll
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\bin\Debug\Dkosoftware.Fandangueiros.Business.pdb
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\bin\Debug\Dkosoftware.Fandangueiros.DAO.dll
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\bin\Debug\Dkosoftware.Fandangueiros.Entity.dll
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\bin\Debug\Dkosoftware.Fandangueiros.DAO.pdb
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\bin\Debug\Dkosoftware.Fandangueiros.Entity.pdb
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\obj\Debug\Dkosoftware.Fandangueiros.Business.csprojResolveAssemblyReference.cache
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\obj\Debug\Dkosoftware.Fandangueiros.Business.dll
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Business\obj\Debug\Dkosoftware.Fandangueiros.Business.pdb

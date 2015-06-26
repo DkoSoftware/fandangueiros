@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dkosoftware.Fandangueiros", "Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.csproj", "{DB5D043D-8BB1-45C9-A54B-2DB01E144E4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dkosoftware.Fandangueiros.Entity", "Dkosoftware.Fandangueiros.Entity\Dkosoftware.Fandangueiros.Entity.csproj", "{DC1FFB29-5ED2-4468-AAC0-3B15956FA485}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dkosoftware.Fandangueiros.Business", "Dkosoftware.Fandangueiros.Business\Dkosoftware.Fandangueiros.Business.csproj", "{503E8450-F110-48DD-98B5-79DF87701B5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dkosoftware.Fandangueiros.DAO", "Dkosoftware.Fandangueiros.DAO\Dkosoftware.Fandangueiros.DAO.csproj", "{8B7BBEEB-2E0B-41FD-9C19-745690D8F74E}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dkosoftware.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Dkosoftware.Fandangueiros.Business\\Dkosoftware.Fandangueiros.Business.csproj
+		SccProjectName1 = Dkosoftware.Fandangueiros.Business
+		SccLocalPath1 = Dkosoftware.Fandangueiros.Business
+		SccProjectUniqueName2 = Dkosoftware.Fandangueiros.DAO\\Dkosoftware.Fandangueiros.DAO.csproj
+		SccProjectName2 = Dkosoftware.Fandangueiros.DAO
+		SccLocalPath2 = Dkosoftware.Fandangueiros.DAO
+		SccProjectUniqueName3 = Dkosoftware.Fandangueiros.Entity\\Dkosoftware.Fandangueiros.Entity.csproj
+		SccProjectName3 = Dkosoftware.Fandangueiros.Entity
+		SccLocalPath3 = Dkosoftware.Fandangueiros.Entity
+		SccProjectUniqueName4 = Dkosoftware.Fandangueiros\\Dkosoftware.Fandangueiros.csproj
+		SccProjectName4 = Dkosoftware.Fandangueiros
+		SccLocalPath4 = Dkosoftware.Fandangueiros
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB5D043D-8BB1-45C9-A54B-2DB01E144E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5D043D-8BB1-45C9-A54B-2DB01E144E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5D043D-8BB1-45C9-A54B-2DB01E144E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5D043D-8BB1-45C9-A54B-2DB01E144E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC1FFB29-5ED2-4468-AAC0-3B15956FA485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1FFB29-5ED2-4468-AAC0-3B15956FA485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1FFB29-5ED2-4468-AAC0-3B15956FA485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1FFB29-5ED2-4468-AAC0-3B15956FA485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{503E8450-F110-48DD-98B5-79DF87701B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{503E8450-F110-48DD-98B5-79DF87701B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{503E8450-F110-48DD-98B5-79DF87701B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{503E8450-F110-48DD-98B5-79DF87701B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B7BBEEB-2E0B-41FD-9C19-745690D8F74E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B7BBEEB-2E0B-41FD-9C19-745690D8F74E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B7BBEEB-2E0B-41FD-9C19-745690D8F74E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B7BBEEB-2E0B-41FD-9C19-745690D8F74E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

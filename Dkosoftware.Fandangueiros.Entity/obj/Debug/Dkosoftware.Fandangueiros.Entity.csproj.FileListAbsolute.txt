@@ -1,0 +1,13 @@
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Entity\bin\Debug\Dkosoftware.Fandangueiros.Entity.dll
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Entity\bin\Debug\Dkosoftware.Fandangueiros.Entity.pdb
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Entity\obj\Debug\Dkosoftware.Fandangueiros.Entity.dll
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Entity\obj\Debug\Dkosoftware.Fandangueiros.Entity.pdb
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Entity\bin\Debug\Dkosoftware.Fandangueiros.Entity.dll
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Entity\bin\Debug\Dkosoftware.Fandangueiros.Entity.pdb
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Entity\obj\Debug\Dkosoftware.Fandangueiros.Entity.dll
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Entity\obj\Debug\Dkosoftware.Fandangueiros.Entity.pdb
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Entity\bin\Debug\Dkosoftware.Fandangueiros.Entity.dll
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Entity\bin\Debug\Dkosoftware.Fandangueiros.Entity.pdb
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Entity\obj\Debug\Dkosoftware.Fandangueiros.Entity.dll
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Entity\obj\Debug\Dkosoftware.Fandangueiros.Entity.pdb
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.Entity\obj\Debug\Dkosoftware.Fandangueiros.Entity.csprojResolveAssemblyReference.cache

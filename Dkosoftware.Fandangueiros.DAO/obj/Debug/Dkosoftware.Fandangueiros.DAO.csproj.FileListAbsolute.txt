@@ -1,0 +1,27 @@
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\bin\Debug\DbFandangueiros.accdb
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\bin\Debug\Dkosoftware.Fandangueiros.DAO.dll.config
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\bin\Debug\Dkosoftware.Fandangueiros.DAO.dll
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\bin\Debug\Dkosoftware.Fandangueiros.DAO.pdb
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\bin\Debug\Dkosoftware.Fandangueiros.Entity.dll
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\bin\Debug\Dkosoftware.Fandangueiros.Entity.pdb
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\obj\Debug\Dkosoftware.Fandangueiros.DAO.csprojResolveAssemblyReference.cache
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\obj\Debug\Dkosoftware.Fandangueiros.DAO.dll
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\obj\Debug\Dkosoftware.Fandangueiros.DAO.pdb
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\bin\Debug\DbFandangueiros.accdb
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\bin\Debug\Dkosoftware.Fandangueiros.DAO.dll.config
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\bin\Debug\Dkosoftware.Fandangueiros.DAO.dll
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\bin\Debug\Dkosoftware.Fandangueiros.DAO.pdb
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\bin\Debug\Dkosoftware.Fandangueiros.Entity.dll
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\bin\Debug\Dkosoftware.Fandangueiros.Entity.pdb
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\obj\Debug\Dkosoftware.Fandangueiros.DAO.csprojResolveAssemblyReference.cache
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\obj\Debug\Dkosoftware.Fandangueiros.DAO.dll
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\obj\Debug\Dkosoftware.Fandangueiros.DAO.pdb
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\bin\Debug\DbFandangueiros.accdb
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\bin\Debug\Dkosoftware.Fandangueiros.DAO.dll.config
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\bin\Debug\Dkosoftware.Fandangueiros.DAO.dll
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\bin\Debug\Dkosoftware.Fandangueiros.DAO.pdb
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\bin\Debug\Dkosoftware.Fandangueiros.Entity.dll
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\bin\Debug\Dkosoftware.Fandangueiros.Entity.pdb
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\obj\Debug\Dkosoftware.Fandangueiros.DAO.csprojResolveAssemblyReference.cache
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\obj\Debug\Dkosoftware.Fandangueiros.DAO.dll
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros.DAO\obj\Debug\Dkosoftware.Fandangueiros.DAO.pdb

@@ -1,0 +1,90 @@
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.exe.config
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.exe
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.pdb
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\MahApps.Metro.dll
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\System.Windows.Interactivity.dll
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\MahApps.Metro.xml
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Properties.Resources.resources
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.csproj.GenerateResource.Cache
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.exe
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.pdb
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.csprojResolveAssemblyReference.cache
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.csprojResolveAssemblyReference.cache
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmPrincipal.resources
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmTeacher.resources
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.SplashScreen.resources
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Properties.Resources.resources
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.csproj.GenerateResource.Cache
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.exe.config
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.exe
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.pdb
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.Business.dll
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.Entity.dll
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\MahApps.Metro.dll
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\System.Windows.Interactivity.dll
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.DAO.dll
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.Business.pdb
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.Entity.pdb
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\MahApps.Metro.xml
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.DAO.pdb
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.exe
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.pdb
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmSearchTeacher.resources
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmClass.resources
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmLessons.resources
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmPrints.resources
+C:\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmStudent.resources
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.Business.dll
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.Entity.dll
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.DAO.dll
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.Business.pdb
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.Entity.pdb
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.DAO.pdb
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmClass.resources
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmLessons.resources
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmPrincipal.resources
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmPrints.resources
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmSearchTeacher.resources
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmStudent.resources
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmTeacher.resources
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.SplashScreen.resources
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\DbFandangueiros.accdb
+c:\users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmLogin.resources
+C:\Users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmNewClass.resources
+C:\Users\riguel.figueiro\documents\visual studio 2012\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmListLessons.resources
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.exe.config
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.exe
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.pdb
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\DbFandangueiros.accdb
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.exe
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.pdb
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.Business.dll
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.DAO.dll
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.Entity.dll
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\MahApps.Metro.dll
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\System.Windows.Interactivity.dll
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.Business.pdb
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.DAO.pdb
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.Entity.pdb
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\MahApps.Metro.xml
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.csprojResolveAssemblyReference.cache
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmClass.resources
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmLessons.resources
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmListLessons.resources
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmLogin.resources
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmNewClass.resources
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmPrincipal.resources
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmPrints.resources
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmSearchTeacher.resources
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmStudent.resources
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmTeacher.resources
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.SplashScreen.resources
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Properties.Resources.resources
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.csproj.GenerateResource.Cache
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmNewLesson.resources
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmNewStudent.resources
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.Forms.FrmListClass.resources
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.exe.manifest
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\bin\Debug\Dkosoftware.Fandangueiros.application
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.exe.manifest
+C:\DKO_IT\Projects\Dkosoftware.Fandangueiros\Dkosoftware.Fandangueiros\obj\Debug\Dkosoftware.Fandangueiros.application
